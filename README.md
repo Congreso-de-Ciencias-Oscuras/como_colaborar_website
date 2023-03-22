@@ -1,6 +1,5 @@
-# Como colaborar en el proyecto de congreso de ciencias oscuras?
 
----
+# Como colaborar en el proyecto de congreso de ciencias oscuras?
 
 ## Pre-requisitos
 
@@ -24,5 +23,11 @@ Node es un entorno de ejecución para javascript y npm es un administrador de pa
 Los links de descarga: https://nodejs.org/en/download <br />
 Dentro de los pasos de instalación de node en uno de los pasos nos preguntarán si queremos instalar npm, es necesario instalarlo en ese paso.
 
+## Recomendaciones
 
+En este apartado se agregan pasos adicionales a los anteriores para hacer de la experiencia de desarrollo más agradable. *PD no se agregarán pasos detallados, solo links a tutoriales externos.*
 
+### 1. Agregar gitbash a windows terminal 
+https://courseit.io/articulo/como-anadir-git-bash-a-windows-terminal-8tq33ye0c
+
+## Colaborando... work on progress
