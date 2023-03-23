@@ -60,4 +60,4 @@ El siguiente paso es crear un entorno de desarrollo local, antes que nada y por 
 1. Tutorial 1: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 2. Tutorial 2: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
-A partir de aquí los pasos a seguir dependerán de cada proyecto en el que se trabaje. Para continuar con este tutorial, los miembros del congreso pueden acceder al repositorio privado llamado: 
+A partir de aquí los pasos a seguir dependerán de cada proyecto en el que se trabaje. Para continuar con este tutorial, los miembros del congreso pueden acceder al repositorio privado llamado: demo-repository
