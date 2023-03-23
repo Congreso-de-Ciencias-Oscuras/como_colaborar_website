@@ -53,4 +53,9 @@ La siguiente opción que podemos hacer es comentar en un issue y auto-asignarnos
 
 Con los issues podremos saber en todo momento en que están trabajando los miembros del equipó.
 
-## Creando un entorno de desarrollo local... Working
+## Creando un entorno de desarrollo local
+
+El siguiente paso es crear un entorno de desarrollo local, antes que nada y por cuestiones de seguridad, se necesitan crear llaves "ssh", simplemente se tienen que seguir los siguientes dos tutoriales:
+
+1. Tutorial 1: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+2. Tutorial 2: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
